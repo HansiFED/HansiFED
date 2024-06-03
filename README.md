@@ -13,10 +13,10 @@ I'm currently studying and working with Front-End development and it's respectiv
 
 
 🎯 Current Mission:
-Currently I'm diving deeper into Frameworks, aiming to add more tools to my skillset so that I can do my work more efficiently, quicker and tidier for a more polished result.
+- Currently I'm diving deeper into Frameworks, aiming to add more tools to my skillset so that I can do my work more efficiently, quicker and tidier for a more polished result.
 
 🤝 Let's Connect!
-Feel free to reach out or check out my repositories. Let's learn and work together!.
+- Feel free to reach out or check out my repositories. Let's learn and work together!.
 
 If you need any further assistance, let me know!
 
