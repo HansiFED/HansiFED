@@ -15,7 +15,7 @@ I'm a 27 year old front-end developer looking for new and exiting technologies t
 
 
 ## 🎯 Current Mission:
-- Currently I'm diving deeper into Frameworks, tools and technologies, which will allow me to add more tools to my skillset so that I can do my work more efficiently, quicker and tidier for a more polished result. It also helps me learn new and exciting things.
+- Currently I'm diving deeper into Fullstack, Framework tools and technologies, which will allow me to add more tools to my skillset so that I can do my work more efficiently, quicker and tidier for a more polished result. It also helps me learn new and exciting things.
 
 
 ## My Toolbox: 
